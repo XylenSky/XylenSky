@@ -10,11 +10,11 @@ I'm currently working in notify-magnet
 
 <p align="center">
 <a href="https://github.com/XylenSky">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=xylensky&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=xylensky&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 </a>
 
 <a href="https://github.com/XylenSky">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=xylensky&theme=dark&hide_border=false"/>
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xylensky&theme=dark&hide_border=false"/>
 </a>
 </p>
 
