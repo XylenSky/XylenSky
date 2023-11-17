@@ -20,7 +20,8 @@ I'm currently working in notify-magnet
 
 
 ### 🗺️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/XylenSky">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</a>
 
 ---
-
